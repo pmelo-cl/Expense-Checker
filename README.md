@@ -77,9 +77,3 @@ Expense-Checker/
 ## Autor
 
 **pmelo-cl** — [GitHub](https://github.com/pmelo-cl)
-
----
-
-## 📄 Licencia
-
-Este proyecto es de uso educativo y personal.
